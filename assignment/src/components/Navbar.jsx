@@ -7,7 +7,6 @@ const Navbar = () => {
     <div>
       <NavLink to={"/signup"}>
         <button className="btn btn-outline-success">
-          {" "}
           <Register />
         </button>
       </NavLink>
